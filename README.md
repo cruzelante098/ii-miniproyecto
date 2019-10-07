@@ -30,4 +30,4 @@ La puntuación refleja como de bien se ha hecho la huida y depende de:
 
 ## Mockup
 
-![Mockup](.\Mockup.png)
+![Mockup](./Mockup.png)
