@@ -26,3 +26,4 @@ La puntuación refleja como de bien se ha hecho la huida y depende de:
 
 * La cercanía con la que se vuela respecto a los obstáculos.
 * El número de enemigos que se derribe.
+* El tiempo que tarda en llegar al destino.
